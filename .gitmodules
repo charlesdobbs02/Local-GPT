@@ -1,0 +1,3 @@
+[submodule "LLMs-from-scratch"]
+	path = LLMs-from-scratch
+	url = ./LLMs-from-scratch
