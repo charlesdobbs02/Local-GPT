@@ -1,3 +1,6 @@
 [submodule "LLMs-from-scratch"]
 	path = LLMs-from-scratch
 	url = ./LLMs-from-scratch
+[submodule "fcc-into-to-llms"]
+	path = fcc-into-to-llms
+	url = ./fcc-into-to-llms
